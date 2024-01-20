@@ -15,6 +15,7 @@
     justify-content: center;
     margin: auto;
 }
+  
 
 .first-label{
     display: block;
@@ -24,7 +25,10 @@
     line-height: 18px;
     color: #777777;
     margin: 0 0 24px 0;
+    
 }
+
+
 
 .first-select {
     display: block;
@@ -39,9 +43,10 @@
     line-height: 18px;
     padding-left: 11px;
     color: #555555;
-
-
+    
+    
 }
+
 
 .second-label {
     display: block;
@@ -106,6 +111,7 @@
     margin: 0 0 36px 0;
 }
 
+
 .second-section {
     width: 327px;
     height: 276px;
@@ -151,6 +157,7 @@
     min-height: 100%;
     position: fixed;
     opacity: 80%;
+    
  }
 
 
